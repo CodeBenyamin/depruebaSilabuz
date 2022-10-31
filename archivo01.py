@@ -1,0 +1,2 @@
+def primerafuncio():
+    print("FuncionPrimera")
